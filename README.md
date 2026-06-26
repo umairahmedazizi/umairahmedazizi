@@ -28,10 +28,10 @@ Most of what's here is coursework I've turned into proper, documented projects.
 Building websites is something I do on the side. These two are sanitised demo versions of real
 builds, with all personal content swapped out for placeholders:
 
-- **[Portfolio CMS](https://github.com/umairahmedazizi/laravel-portfolio-cms)**
-  ([live demo](https://umairahmedazizi.github.io/laravel-portfolio-cms/))
-  A developer-portfolio site where every section is editable from an admin panel instead of being
-  hard-coded. Laravel and Filament.
+- **[Personal Brand CMS](https://github.com/umairahmedazizi/personal-brand-cms)**
+  ([live demo](https://umairahmedazizi.github.io/personal-brand-cms/))
+  A fast static site (Eleventy) for an author/speaker, paired with a small custom PHP backend that
+  lets the owner edit pages, books, and blog posts. Eleventy, PHP, SQLite/MySQL.
 
 ### What I work with
 
