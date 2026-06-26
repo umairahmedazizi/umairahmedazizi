@@ -33,6 +33,11 @@ builds, with all personal content swapped out for placeholders:
   A fast static site (Eleventy) for an author/speaker, paired with a small custom PHP backend that
   lets the owner edit pages, books, and blog posts. Eleventy, PHP, SQLite/MySQL.
 
+- **[Portfolio CMS](https://github.com/umairahmedazizi/laravel-portfolio-cms)**
+  ([live demo](https://umairahmedazizi.github.io/laravel-portfolio-cms/))
+  A developer-portfolio site where every section is editable from an admin panel instead of being
+  hard-coded. Laravel and Filament.
+
 ### What I work with
 
 Python (pandas, NumPy, scikit-learn, Plotly, seaborn) and Stata for the analysis side, plus the
