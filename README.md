@@ -17,6 +17,10 @@ Most of what's here is coursework I've turned into proper, documented projects.
   A Mincer wage regression on the Labour Force Survey 2024-25, estimating how education affects
   earnings. Stata.
 
+- **[Indus Motor Company: Ratio Analysis](https://github.com/umairahmedazizi/indus-motor-ratio-analysis)**
+  A five-year financial ratio analysis of Indus Motor Company (2020-2024), benchmarked against the
+  industry, covering liquidity, profitability, asset and debt management, and market value.
+
 - **[Shan Foods: Brand and Marketing Analysis](https://github.com/umairahmedazizi/shan-foods-marketing-analysis)**
   A brand and marketing-mix case study built on an interview with the company's marketing manager.
 
